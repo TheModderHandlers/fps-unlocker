@@ -1,0 +1,19 @@
+{
+  "id": "msm-fps-unlocker",
+  "name": "FPS Unlocker",
+  "author": "Paficent",
+  "version": "1.0.0",
+  "game_version": "5.4.0",
+  "error_on_game_update": false,
+  "enabled": true,
+  "entry": "",
+  "native_entry": "unlocker.dll",
+  "load_priority": 0,
+  "dependencies": [],
+  "assets": {
+    "auto_override": false,
+    "overrides": {},
+    "dat_overrides": {}
+  },
+  "schema_version": 1
+}
